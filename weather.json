@@ -1,0 +1,50 @@
+{
+  "Headline": {
+    "EffectiveDate": "2024-10-04T01:15:00+05:45",
+    "EffectiveEpochDate": 1727983800,
+    "Severity": 3,
+    "Text": "Thunderstorms in the area late Thursday night through Friday afternoon",
+    "Category": "thunderstorm",
+    "EndDate": "2024-10-04T19:15:00+05:45",
+    "EndEpochDate": 1728048600,
+    "MobileLink": "http://www.accuweather.com/en/np/baitadi/244107/daily-weather-forecast/244107?lang=en-us",
+    "Link": "http://www.accuweather.com/en/np/baitadi/244107/daily-weather-forecast/244107?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2024-10-03T07:00:00+05:45",
+      "EpochDate": 1727918100,
+      "Temperature": {
+        "Minimum": {
+          "Value": 61,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 81,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 16,
+        "IconPhrase": "Mostly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 41,
+        "IconPhrase": "Partly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/np/baitadi/244107/daily-weather-forecast/244107?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/np/baitadi/244107/daily-weather-forecast/244107?day=1&lang=en-us"
+    }
+  ]
+}
