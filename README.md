@@ -5,11 +5,11 @@ Here are the screenshots of the code and the output:
 
 <img src="Screenshots/weather_script_1.png" alt="Code Screenshot 1" width="600"/>
 *First part of the script that handles API requests and data processing.*
-
+<br><br>
 <img src="Screenshots/weather_script_2.png" alt="Code Screenshot 2" width="600"/>
 *Second part of the script that sends SMS notifications based on the weather data.*
-
+<br><br>
 <img src="Screenshots/output.jpg" alt="Output Screenshot" width="600"/>
 *Example output showing the notification sent for weather alerts.*
-
+<br><br>
 Feel free to give Feedback!
