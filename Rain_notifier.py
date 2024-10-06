@@ -41,7 +41,7 @@ if {daily_response.status_code, hourly_response.status_code} == {200}:
             message = client.messages.create(
                 messaging_service_sid=os.environ.get("MESSAGING_SERVICE_SID"),
                 body=f"""Today, there is a chance of {Counter(hour_count).most_common(1)[0][0]} rain {f"at {time_count[0]}" if len(hour_count) == 1 else f"on {', '.join(time_count)}"}""",
-                to='+9779812658586'
+                to='+977XXXXXXXXXX'
             )
 
             print(message.sid)
